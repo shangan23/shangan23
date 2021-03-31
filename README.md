@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Frontend Development with JavaScript, HTML5, CSS3 in Frameworks like ReactJS, React Native, Angular 9.x, TypeScript, Electron, NodeJS in AGILE Environment.
+🔭 I’m currently working on Frontend Development with JavaScript, HTML5, CSS3 in Frameworks like ReactJS, Angular 9.x, TypeScript, Electron, NodeJS in AGILE Environment.
 
 Web Development and Deep-level understanding of HTTP and HTTP2 Protocol Features server Push, Pipelining and Multiplexing.
 
